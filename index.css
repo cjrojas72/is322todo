@@ -4,7 +4,7 @@ li{
 #head{
     background-color:#4CAF50;
     display: block;
-    height: 100px;
+    height: 140px;
     font: 30px "Century Gothis", Futura, sans-serif;
     color: white;
     font-weight: bold;
@@ -13,6 +13,7 @@ li{
     width: 70%;
     margin-left: auto;
     margin-right: auto;
+    border: 1px solid black;
 }
 button{
     background-color: #4CAF50;
@@ -26,6 +27,7 @@ button{
     margin: 4px 2px;
     cursor: pointer;
     font-weight: bold;
+    border: 1px solid black;
 }
 
 body{
